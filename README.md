@@ -14,13 +14,6 @@ A repository containing assignments, lab work, and resources for data analysis a
 - Jupyter Notebook
 - Popular data science libraries (NumPy, pandas, matplotlib, seaborn)
 
-## 🚀 Getting Started
-
-Clone the repo:
-git clone https://github.com/Deep841/Data-A-V.git
-
-Open notebooks in Jupyter or your preferred IDE.
-
 ## 📖 License
 
 MIT License
