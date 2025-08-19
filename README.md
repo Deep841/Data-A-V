@@ -4,9 +4,9 @@ A repository containing assignments, lab work, and resources for data analysis a
 
 ## 📁 Folders
 
-- **assignments/** – Homework and practice exercises
-- **lab work/** – Jupyter notebooks and lab session files
-- **mam's resources/** – Reference materials provided by instructor
+- **assignments/** – all assignmets given by mam
+- **lab work/** –  all abt what i did during lab sessions in Jupyter notebooks
+- **mam's resources/** – Reference materials provided by mam 
 
 ## 🛠️ Tech Stack
 
