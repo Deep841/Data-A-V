@@ -6,7 +6,7 @@ A repository containing assignments, lab work, and resources for data analysis a
 
 - **assignments/** – all assignmets given by mam
 - **lab work/** –  all abt what i did during lab sessions in Jupyter notebooks
-- **mam's resources/** – Reference materials provided by mam 
+- **mam's resources/** – Reference materials + Assignments provided by mam 
 
 ## 🛠️ Tech Stack
 
